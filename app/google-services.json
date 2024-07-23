@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "232675844191",
+    "project_id": "eazychat-7a03c",
+    "storage_bucket": "eazychat-7a03c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232675844191:android:a1607ddeb6c6c7630b3bea",
+        "android_client_info": {
+          "package_name": "com.abhinav.eazychat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpPE6PV_UaHljVLbJdc0chqE2_pWTleRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
